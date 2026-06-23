@@ -126,16 +126,3 @@ npm run dev
 cd Frontend
 npm run dev
 ```
-
-## Contribuir
-
-- Abrir issues para bugs o mejoras.
-- Crear ramas con prefijo feature/ o fix/ y enviar pull requests.
-
-## Licencia
-
-Añadir aquí la licencia del proyecto si aplica.
-
----
-
-Si quieres, puedo añadir ejemplos de request/response para las rutas del Backend o un archivo .env.example. ¿Los genero ahora? 
